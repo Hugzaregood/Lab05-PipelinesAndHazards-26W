@@ -1,12 +1,12 @@
 //=========================================================================
 // Name & Email must be EXACTLY as in Gradescope roster!
-// Name: 
-// Email: 
+// Name: Nicholas Castellanos
+// Email: ncast094@ucr.edu
 // 
-// Assignment name: 
-// Lab section: 
-// TA: 
-// 
+// Assignment name: Lab 5 - Pipelines & Hazards
+// Lab section: 021
+// TA: Allan Knight
+//  
 // I hereby certify that I have not received assistance on this assignment,
 // or used code, from ANY outside source other than the instruction team
 // (apart from what was provided in the starter file).
